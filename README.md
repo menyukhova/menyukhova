@@ -1,6 +1,5 @@
 # Hi, I'm Diana Menyukhova, BI-analyst
 
-### About Me:
 I believe that effective data visualization is a key element to ensure that the results of data analysis are correctly understood and efficiently utilized.<br>
 My work focuses on creating clear and informative dashboards that facilitate decision-making at all levels of management.
 
