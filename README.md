@@ -4,7 +4,7 @@ I believe that effective data visualization is a key element to ensure that the 
 My work focuses on creating clear and informative dashboards that facilitate decision-making at all levels of management.
 
 
-### Socials:
+### Links:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diana-menyukhova-a3b438198/)<br>
 [![thjjg](https://public.tableau.com/app/assets/tableau-public-logo-rgb.07774149.svg)](https://public.tableau.com/app/profile/diana.menyukhova/vizzes)
 
